@@ -1,0 +1,17 @@
+/vendor
+/node_modules
+.env
+.env.*
+!.env.example
+.phpunit.result.cache
+.DS_Store
+Thumbs.db
+/.idea
+/.vscode
+
+# foto kiriman pengunjung (dibuat saat aplikasi berjalan)
+/public/storage/*
+!/public/storage/pengalaman
+/public/storage/pengalaman/*
+!/public/storage/pengalaman/.gitkeep
+/public/hot
