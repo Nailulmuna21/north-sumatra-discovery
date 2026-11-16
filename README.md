@@ -59,7 +59,7 @@ Akun contoh dari seeder (nilainya diatur di blok `SEED_*` pada `.env`):
 
 | Peran | Email                  | Kata sandi |
 |-------|------------------------|------------|
-| Admin | admin@nsdiscovery.test | admin1112  |
+| Admin | admin@nsdiscovery.test | admin1234  |
 | User  | user@nsdiscovery.test  | user1234   |
 
 Panel admin ada di `/admin`.
