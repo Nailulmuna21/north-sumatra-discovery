@@ -65,8 +65,5 @@ Akun contoh dari seeder (nilainya diatur di blok `SEED_*` pada `.env`):
 Panel admin ada di `/admin`.
 
 ## Catatan
-
-- Folder `vendor/` dan file `.env` sengaja tidak disertakan. `vendor/` dibuat oleh
-  `composer install`, sedangkan `.env` berisi kredensial dan harus dibuat sendiri dari `.env.example`.
 - Foto kiriman pengunjung disimpan di `public/storage/pengalaman/`. Folder ini harus bisa
   ditulis oleh web server.
